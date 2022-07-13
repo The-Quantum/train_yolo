@@ -1,0 +1,10 @@
+Train-YoloV5-on-Custom-Dataset/
+.venv/
+modules/
+OID/
+OIDv4_ToolKit/
+zip_obj_test.sh/
+test.sh
+test.zip
+test2.sh
+obj.zip
